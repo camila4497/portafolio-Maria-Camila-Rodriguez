@@ -15,8 +15,7 @@ Portafolio/
 │ ├── scripts.js # Archivo JS adicional 
 │
 ├── img/
-│ ├── foto-perfil.jpeg # Imagen del encabezado│
-
+│ ├── 1000178425.jpeg # foto de perfil
 ├── index.html # Página principal del portafolio
 ├── projects.html # Página de proyectos con modales
 
