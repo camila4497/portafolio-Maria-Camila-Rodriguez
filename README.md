@@ -19,7 +19,9 @@ Portafolio/
 
 ├── index.html # Página principal del portafolio
 ├── projects.html # Página de proyectos con modales
-### 🎨 Características Principales
+
+
+###  Características Principales
 
 ### **1. Página principal (`index.html`)**
 - Presenta el nombre, foto e introducción personal.  
